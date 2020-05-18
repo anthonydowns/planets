@@ -10,4 +10,4 @@ This repository contains notes on an interplanetary base for Dracula and his bud
 
 1. first item
 1. second item
-1. *&c.*
+1. *etc.*
